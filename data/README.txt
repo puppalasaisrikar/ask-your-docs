@@ -1,0 +1,1 @@
+Place your PDFs or text files here for indexing.
