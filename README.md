@@ -18,15 +18,15 @@ It parses the text, generates embeddings, performs similarity search, and then u
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/genai-doc-assistant.git
-   cd genai-doc-assistant
+   git clone https://github.com/puppalasaisrikar/ask-your-docs.git
+   cd ask-your-docs
 
 2. Install dependencies:
--pip install -r requirements.txt
+pip install -r requirements.txt
 (or use conda env create -f environment.yml if you prefer conda)
 
 3. Run the app:
--python src/app.py
+python src/app.py
 
 4. Open your browser → http://localhost:8501 (if using Streamlit)
 -Upload a document, then ask questions in plain English.
